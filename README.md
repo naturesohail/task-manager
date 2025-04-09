@@ -14,9 +14,9 @@ A mini task manager built with Laravel (backend) and Vue.js (frontend).
 ## Setup
 
 ### Backend (Laravel)
-php version -8.2
-Laravel version - 12
-composer version - 2.8.5
+php version - v8.2
+Laravel version - v12
+composer version - v2.8.5
 
 1. Create env `copy the content from .env.example and change the database name`
 2. Run `composer install`
@@ -24,8 +24,8 @@ composer version - 2.8.5
 4. Start server: `php artisan serve`
 
 ### Frontend (Vue.js)
-npm version -11.2.0
-node version -v22.13.0
+npm version - v11.2.0
+node version - v22.13.0
 1. Run `npm install or you can use yarn`
 2. Run dev server: `npm run dev`
 
